@@ -1,0 +1,17 @@
+{
+  "name": "douban-publisher",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "render": "node scripts/render-post.mjs",
+    "fill": "node scripts/fill-douban.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}

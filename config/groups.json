@@ -1,0 +1,95 @@
+{
+  "beijing": [
+    { "name": "北京租房", "postUrl": "" }
+  ],
+  "shanghai": [
+    { "name": "上海租房", "postUrl": "" }
+  ],
+  "guangzhou": [
+    { "name": "广州租房", "postUrl": "https://www.douban.com/group/129657/new_topic" }
+  ],
+  "shenzhen": [
+    { "name": "深圳租房", "postUrl": "https://www.douban.com/group/134156/new_topic" }
+  ],
+  "hangzhou": [
+    { "name": "杭州租房", "postUrl": "" }
+  ],
+  "chengdu": [
+    { "name": "成都租房", "postUrl": "https://www.douban.com/group/512839/new_topic" }
+  ],
+  "wuhan": [
+    {
+      "name": "武汉租房",
+      "postUrl": "https://www.douban.com/group/551383/new_topic"
+    }
+  ],
+  "nanjing": [
+    { "name": "南京租房", "postUrl": "https://www.douban.com/group/352686/new_topic" }
+  ],
+  "suzhou": [
+    { "name": "苏州租房", "postUrl": "https://www.douban.com/group/85743/new_topic" }
+  ],
+  "tianjin": [
+    { "name": "天津租房", "postUrl": "" }
+  ],
+  "chongqing": [
+    { "name": "重庆租房", "postUrl": "https://www.douban.com/group/592740/new_topic" }
+  ],
+  "xian": [
+    { "name": "西安租房", "postUrl": "" }
+  ],
+  "zhengzhou": [
+    { "name": "郑州租房", "postUrl": "https://www.douban.com/group/188928/new_topic" }
+  ],
+  "changsha": [
+    { "name": "长沙租房", "postUrl": "https://www.douban.com/group/274569/new_topic" }
+  ],
+  "qingdao": [
+    { "name": "青岛租房", "postUrl": "" }
+  ],
+  "ningbo": [
+    { "name": "宁波租房", "postUrl": "" }
+  ],
+  "wuxi": [
+    { "name": "无锡租房", "postUrl": "" }
+  ],
+  "xiamen": [
+    { "name": "厦门租房", "postUrl": "" }
+  ],
+  "jinan": [
+    { "name": "济南租房", "postUrl": "" }
+  ],
+  "hefei": [
+    { "name": "合肥租房", "postUrl": "" }
+  ],
+  "fuzhou": [
+    { "name": "福州租房", "postUrl": "" }
+  ],
+  "dalian": [
+    { "name": "大连租房", "postUrl": "" }
+  ],
+  "shenyang": [
+    { "name": "沈阳租房", "postUrl": "" }
+  ],
+  "harbin": [
+    { "name": "哈尔滨租房", "postUrl": "" }
+  ],
+  "nanchang": [
+    { "name": "南昌租房", "postUrl": "" }
+  ],
+  "kunming": [
+    { "name": "昆明租房", "postUrl": "" }
+  ],
+  "guiyang": [
+    { "name": "贵阳租房", "postUrl": "" }
+  ],
+  "nanning": [
+    { "name": "南宁租房", "postUrl": "" }
+  ],
+  "sanya": [
+    { "name": "三亚租房", "postUrl": "" }
+  ],
+  "haikou": [
+    { "name": "海口租房", "postUrl": "" }
+  ]
+}
