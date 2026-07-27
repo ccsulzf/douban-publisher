@@ -12,6 +12,8 @@
 
 这个小程序可以把每套候选房的信息放在同一个地方。下次和中介沟通、回头复盘，或是和家人朋友一起讨论时，不用再翻很长的聊天记录和照片。
 
+![候选房记录：集中填写房屋情况、押金、付款方式和租期](https://raw.githubusercontent.com/ccsulzf/douban-publisher/main/docs/assets/v2ex/property-costs.jpg)
+
 ## 2. 现场看房检查
 
 看房现场往往时间很短，离开后才想起忘了听噪音、看通风，或者没留意楼道、电梯和夜间回家的路线。
@@ -20,15 +22,23 @@
 
 ![房屋检查：记录空间、采光、通风、噪音和气味](https://raw.githubusercontent.com/ccsulzf/douban-publisher/main/docs/assets/v2ex/room-inspection.jpg)
 
-## 3. 通勤与周边判断
+## 3. 通勤判断
 
-地图上的直线距离很难说明每天上班会不会累：要走多久、换几次车、下雨天是否麻烦，才是住进去后真正会遇到的问题。超市、菜市场、医院或公园等配套，也常常看过就忘了它们对应哪套房。
+地图上的直线距离很难说明每天上班会不会累：要走多久、换几次车、下雨天是否麻烦，才是住进去后真正会遇到的问题。
 
-把常去地点和候选房放在一起看，可以更直观地判断每天怎么走、通勤是否能长期接受，也方便回头确认每套房周边的生活便利程度。
+把常去地点和候选房放在一起看，可以比较公交、驾车和骑行需要的时间、距离与成本，也能继续查看具体路线和换乘过程，更直观地判断这种通勤能不能长期接受。
+
+![通勤方式：比较公交、驾车和骑行的时间、距离与成本](https://raw.githubusercontent.com/ccsulzf/douban-publisher/main/docs/assets/v2ex/commute-modes.jpg)
 
 ![公交通勤详情：步行接驳、线路、站点和预计用时](https://raw.githubusercontent.com/ccsulzf/douban-publisher/main/docs/assets/v2ex/transit-detail.jpg)
 
-## 4. 两套房源并排比较
+## 4. 周边生活配套
+
+看房时顺手搜过的超市、菜市场、医院或公园，过几天很容易记不清对应的是哪套房。小程序会把这些生活配套和具体候选房放在一起，可以按类型查看位置和距离，回头比较时不用重新在地图里搜索。
+
+![周边生活配套：按类型查看候选房附近的超市、菜市场、医院和公园](https://raw.githubusercontent.com/ccsulzf/douban-publisher/main/docs/assets/v2ex/amenities.jpg)
+
+## 5. 两套房源并排比较
 
 真正难的往往不是发现一套房的缺点，而是在两套都还不错的房子之间做决定：一套便宜但远，一套近但采光一般；一套房间舒服，另一套周边更方便。
 
